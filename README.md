@@ -1,0 +1,2 @@
+
+PHP Common Function
